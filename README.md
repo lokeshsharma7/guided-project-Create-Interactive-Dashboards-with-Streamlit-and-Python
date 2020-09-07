@@ -1,4 +1,5 @@
-# guided-projects
+# Create Interactive Dashboards with Streamlit and Python
+
 We loaded, explored, visualized and interacted with data
 
 and generated dashboards in less than 150 lines of Python code!
